@@ -1,0 +1,1 @@
+run npm in each folder
